@@ -1,16 +1,15 @@
-### Hi there 👋
+👋 Hi, I'm Lara Lima.
 
-<!--
-**larajglima/larajglima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Based in Lisbon
 
-Here are some ideas to get you started:
+📊 Biomedical Scientist transitioning to Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤩 Passionate about the intersection of healthcare and technology
+
+🧠 Enthusiastic about the potential of AI to revolutionize global health
+
+💡Exploring data-driven insights for a healthier world
+
+📚 Lifelong learner, always eager to expand my skills
+
+📧 How to reach me: lara.jglima@gmail.com
